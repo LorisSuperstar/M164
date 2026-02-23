@@ -21,4 +21,25 @@ Integrität = saubere Daten und klar strukturiert. Dadurch kann man den Speicher
 - DDL
 - Systemsspezifische Eigenschafften
 
-# 
+# DBMS
+
+kann unterschiedleiche Datenbanken managen
+DBMS = DatenBankManagementSystem = managet alles
+er kann Konsistenzlkontrolle, Datensicherung machen
+
+sprachen:
+
+- definition = drop table, create
+- Data Manipulation language = DML = select und so
+- DCL = Data control language = grant
+- TCL = Transaktionskontrolle
+
+# Vorteile des Datenbankeneinsatzes
+
+- Nutzung von Standarts
+- Flexibilität
+- hohe Verfügbarkeit
+
+# Nachteile des Datenbankeinsatzes
+
+- Aufwand/Arbeit
