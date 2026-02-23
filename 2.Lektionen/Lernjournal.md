@@ -1,6 +1,6 @@
 # Welche Inhalte oder Kompetenzen habe ich mir in diesem Halbtag angeeignet oder vertieft?
 
-Ich hatte eine Widerholung von schon bekannten themen und auch vond DDL
+Ich hatte eine Widerholung von schon bekannten themen und auch von DDL vertieft. Jetzt weiss ich auch wie ich meine Sql workbench skizze richtig benutzen kann.
 
 # Welche Lernstrategien oder Arbeitsweisen haben mir heute geholfen?
 
