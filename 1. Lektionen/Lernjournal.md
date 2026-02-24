@@ -1,6 +1,6 @@
 # Welche Inhalte oder Kompetenzen habe ich mir in diesem Halbtag angeeignet oder vertieft?
 
-Ich hatte eine Widerholung von schon bekannten themen.
+[Notizen](Notes.md)
 
 # Welche Lernstrategien oder Arbeitsweisen haben mir heute geholfen?
 
