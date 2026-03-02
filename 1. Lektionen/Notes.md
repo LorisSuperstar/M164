@@ -26,12 +26,16 @@ Daten die das selbe Bedeuten
 
 # ERM
 
-# Kardinalitäten 
-## 1 zu 1 Beziehung
-zb. Bei UserProfil und UserDaten
-## 1 zu n
-eins zu viele
-## n zu m
-eins zu viele => Viele zu eins (insgesamt 3 Tabellen)
+# Kardinalitäten
 
-# Begriffe 
+## 1 zu 1 Beziehung
+
+zb. Bei UserProfil und UserDaten
+
+## 1 zu n
+
+eins zu viele
+
+## n zu m
+
+eins zu viele => Viele zu eins (insgesamt 3 Tabellen)
