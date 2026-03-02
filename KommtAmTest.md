@@ -1,6 +1,13 @@
-# Sprachen
+# Theorie
 
-- DDL = data definition language = drop table, create
-- DML = Data Manipulation language = select und so
-- DCL = Data control language = grant
-- TCL = Transaction control language
+- SQL select, insert
+- DDL/DML/DQL
+- Theorie zu Datenbankeinsatz
+- Beziehungen
+- Entitäten
+
+# Praxis
+
+- DDL/DML - Befehle
+- DUMP
+- Skript muss 2x laufen können (mit Drop am anfang)
