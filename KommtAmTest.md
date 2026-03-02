@@ -5,6 +5,7 @@
 - Theorie zu Datenbankeinsatz
 - Beziehungen
 - Entitäten
+- Fachliche Begriffe
 
 # Praxis
 
