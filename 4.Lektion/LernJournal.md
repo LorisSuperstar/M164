@@ -2,6 +2,8 @@
 
 Ich hatte heute den LB1 Test und ich habe mit Joins herumgespielt.
 
+Mehr Infos: 4. Lektion [notizen](notizen.md)
+
 # Welche Lernstrategien oder Arbeitsweisen haben mir heute geholfen?
 
 Ich habe heute viel einfach selbständig mit mySQL herumgespielt.
