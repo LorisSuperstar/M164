@@ -37,10 +37,19 @@ Jeder Datensatz soll eindeutig Identifizierbar sein z. B. durch einer Id.
 
 ### Referenzielle Integrität
 
-- Saubere Referenzen.
-- Saubere Löschung.
-- ON DELETE
-- CASCADE
+#### ON DELETE
+
+Ein DELETE in der Primärtabelle kann nur ausgeführt werden, wenn in keiner Detailtabelle ein Fremdschlüssel mit dem entsprechenden Wert existiert.
+
+##### CASCADE
+
+Ein DELETE in der Primärtabelle führt auch zu einem Löschen der entsprechenden Datensätze in der Fremdschlüsseltabelle. Achtung mit dieser Regel, evtl. werden unbeabsichtigt Daten gelöscht!
+
+##### SET NULL
+
+Bei einem DELETE in der Primärtabelle werden die entsprechenden Datensätze in der Fremdschlüsseltabelle auf NULL gesetzt.
+
+mann kann auch einen Default wert angeben.
 
 ### Datentypen
 
