@@ -1,4 +1,6 @@
-# Theorie
+# LB1
+
+## Theorie
 
 - SQL select, insert
 
@@ -28,8 +30,10 @@ DQL – Data Query Language = Das Abfragen und Lesen von Daten.
 4. Datenwert / Attributwert
 5. Primärschlüssel
 
-# Praxis
+## Praxis
 
 - DDL/DML - Befehle
 - DUMP
 - Skript muss 2x laufen können (mit Drop am anfang)
+
+# LB2
