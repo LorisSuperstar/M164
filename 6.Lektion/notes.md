@@ -54,3 +54,27 @@ WHERE country IN
 ## Hauptunterschied
 
 - Bei einer skalaren unterabfrage bekommt man nur eine einzige zeile zurück.
+
+# Bulk Import
+
+![alt text](image-1.png)
+
+## CSV Datei vom Server laden
+
+- Das Kommando dazu heisst:
+
+```
+LOAD DATA INFILE "C:/path/import.csv"
+```
+
+- Mit diesem Kommando, versucht der MariaDB Server, die Eingabedatei aus seinem eigenen Dateisystem zu lesen. Ohne Pfadangabe sucht der Server die Datei im Data-Verzeichnis der aktuellen Datenbasis
+
+## CSV-Datei vom Client laden
+
+- Das Kommando dazu heisst:
+```
+LOAD DATA LOCAL INFILE "C:/path/import.csv"
+```
+- Beachten Sie den Zusatz LOCAL! Wenn Sie diese Anweisung ausführen, versucht der Klient, die Eingabedatei aus seinem Dateisystem zu lesen, und sendet den Inhalt der Eingabedatei an den MariaDB Server. Auf diese Weise können Sie Dateien aus dem lokalen Dateisystem des Klienten in die Datenbank laden.
+
+
