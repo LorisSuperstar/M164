@@ -4,7 +4,7 @@ Mehr Infos: 6. Lektion [notizen](notes.md)
 
 # Welche Lernstrategien oder Arbeitsweisen haben mir heute geholfen?
 
-Alles zu Notieren was ich gelernt habe und einfach selbstständig durchlesen.
+Mir Notizen während dem Lernen zu schreiben.
 
 # Wo bin ich auf Schwierigkeiten oder offene Fragen gestossen – und welche naechsten Schritte plane ich, um damit weiterzukommen
 
