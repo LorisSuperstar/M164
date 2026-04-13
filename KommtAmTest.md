@@ -37,3 +37,4 @@ DQL – Data Query Language = Das Abfragen und Lesen von Daten.
 - Skript muss 2x laufen können (mit Drop am anfang)
 
 # LB2
+
